@@ -1,0 +1,40 @@
+.featured
+{
+    width:100%;
+    max-width:1024px;
+    display:flex;
+    justify-content:space-between;
+    gap:20px;
+    z-index:1;
+}
+
+
+
+.featuredItem
+{
+ 
+ position:absolute;
+ height:100px;
+ font-size: 10px;
+ font-family:Verdana, Geneva, Tahoma, sans-serif;
+ gap:10px;
+ justify-content: space-around;
+ align-items: center;
+    
+
+}
+
+.featuredtitle
+{
+   justify-content: center;
+   align-items:center;
+    bottom:30px;
+    left:10PX;
+
+} 
+
+.featuredImg
+{
+    width:30%;
+    object-fit: cover;
+}

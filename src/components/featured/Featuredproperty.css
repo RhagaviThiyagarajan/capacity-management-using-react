@@ -1,0 +1,50 @@
+.fp
+{
+
+    width:50%;
+    max-width:1024px;
+
+    justify-content:space-evenly;
+    gap:0px;
+    z-index:1;
+}
+
+
+.fpItem
+{
+  
+
+   top:1rem;
+    justify-content:center;
+
+}
+
+
+
+.fpImg
+{
+  
+    object-fit:cover;
+    height:200px;
+    justify-content: center;
+    align-content: center;
+    height:300px;
+    width:50%;
+    object-fit: cover;
+}
+
+.fpcity
+{
+    font-weight:1rem;
+}
+
+.fpContainer
+{
+    width:50%;
+    max-width:1024px;
+
+    justify-content:space-between;
+    gap:20px;
+    z-index:1;
+   
+}
